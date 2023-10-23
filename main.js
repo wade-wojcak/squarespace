@@ -1,3 +1,3 @@
 window.onload = function () {
-  alert('Page has loaded!');
+  console.log('Page has loaded!');
 };
